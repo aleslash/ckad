@@ -15,3 +15,8 @@ During the exam, candidates may:
 - use the browser within the VM to access the following documentation: https://kubernetes.io/docs/, https://kubernetes.io/blog/ and their subdomains. This includes all available language translations of these pages
 - CKAD ONLY: candidates can use the browser within the VM to access https://helm.sh/docs
 - use the search function provided on https://kubernetes.io/docs/ however, they may only open search results that have a domain matching the sites listed above
+
+## Links diretos para usar durante a prova
+
+https://kubernetes.io/docs/reference/
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
