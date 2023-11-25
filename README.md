@@ -18,5 +18,5 @@ During the exam, candidates may:
 
 ## Links diretos para usar durante a prova
 
-https://kubernetes.io/docs/reference/
-https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+- https://kubernetes.io/docs/reference/
+- https://kubernetes.io/docs/reference/kubectl/cheatsheet/
