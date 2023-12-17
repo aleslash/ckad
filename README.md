@@ -20,3 +20,20 @@ During the exam, candidates may:
 
 - https://kubernetes.io/docs/reference/
 - https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
+## Pontos de atencao
+
+- troca de contexto
+- salvar arquivos
+- para jobs: -- sh -c "sleep x && echo done"
+- helm: delete release, upgrade release, install,
+- service account e secret
+- deployment, history e rollback, rollout restart
+- delete pod --force --grace-period=0
+- service, comando get ep e comando expose
+- pv e pvc
+- storage class e pvc
+- secret, secret volume e secret env
+- configMap e configMap volume
+- sidecar vs initContainer
+- network policy
